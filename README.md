@@ -20,9 +20,9 @@ A simple and responsive **digital clock application built with React.js and Boot
 - **Styling:** Bootstrap, CSS
 - **Build Tool:** Vite
 - **Tools:** VS Code, Git & GitHub
-
 ## 📂 Project Structure
 
+```text
 Bharat-Clock/
 │
 ├── src/
@@ -78,7 +78,8 @@ http://localhost:5173
 ```
 
 The application will now be running locally. 🚀
-## ⚙️ How It Works
+
+
 
 - The JavaScript `Date()` object is used to get the current date and time.
 - React `useState` hook is used to store and update the current time.
