@@ -22,23 +22,62 @@ A simple and responsive **digital clock application built with React.js and Boot
 - **Tools:** VS Code, Git & GitHub
 
 ## 📂 Project Structure
-harat-Clock/
+
+Bharat-Clock/
 │
 ├── src/
-│ ├── components/
-│ │ ├── Clock.jsx
-│ │ ├── ClockHeading.jsx
-│ │ └── Slogan.jsx
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ ├── App.css
+│   ├── components/
+│   │   ├── Clock.jsx
+│   │   ├── ClockHeading.jsx
+│   │   └── Slogan.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── App.css
 │
 ├── public/
-│
 ├── package.json
+├── package-lock.json
 └── README.md
+```
 
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Bharat-Clock.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd Bharat-Clock
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+### 5. Open the application
+
+Visit:
+
+```text
+http://localhost:5173
+```
+
+The application will now be running locally. 🚀
 ## ⚙️ How It Works
 
 - The JavaScript `Date()` object is used to get the current date and time.
