@@ -77,7 +77,7 @@ Visit:
 http://localhost:5173
 ```
 
-The application will now be running locally. 🚀
+
 
 
 
