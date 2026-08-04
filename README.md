@@ -86,4 +86,4 @@ http://localhost:5173
 - React `useEffect` hook runs a timer using `setInterval()` to update the clock every second.
 - Bootstrap classes are used to create a responsive and visually appealing layout.
 
-
+The application will now be running locally. 🚀
