@@ -11,7 +11,7 @@ A simple and responsive **digital clock application built with React.js and Boot
 - 🎨 Responsive UI using Bootstrap
 - 📱 Mobile-friendly design
 - ⏰ Shows current hours, minutes, and seconds
-- ✨ Clean and simple user interface
+
 
 ## 🛠️ Tech Stack
 
